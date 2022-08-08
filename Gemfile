@@ -6,6 +6,7 @@ gem "rails", "~> 7.0.3", ">= 7.0.3.1"
 
 gem 'bootstrap-sass', '3.4.1'
 gem 'rails-controller-testing'
+gem 'bcrypt',         '3.1.13'
 
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
